@@ -85,4 +85,7 @@ dependencies {
 
     //adding annotation for jetbrain
     implementation(libs.annotations)
+
+
+    implementation("androidx.work:work-runtime-ktx:2.9.0")
 }
